@@ -1,0 +1,72 @@
+/* globle css start*/
+.bg-theme{
+  background-color: #15b275!important;
+}
+.text-theme{
+  color: #15b275;
+}
+.btn-theme{
+  background-color: #0e704a!important;
+  border-color: #0e704a!important;
+}
+.form-control:focus {
+  box-shadow:none!important;
+}
+/* globle css end*/
+
+/* header css start */
+.header .navbar-dark .navbar-toggler{
+  border-color: transparent!important;
+}
+.header button:focus {
+  outline: none;
+}
+.form-control-login{
+  background-color: transparent;
+  border: 1px solid #fff;
+  color: #fff;
+  padding: 3px 10px;
+}
+.form-control-login::placeholder {
+  color: #9ad6b9;
+  opacity: 1;
+}
+.form-control-login:-ms-input-placeholder {
+  color: #9ad6b9;
+}
+.form-control-login::-ms-input-placeholder {
+  color: #9ad6b9;
+}
+.acount{
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+  color: #fff;
+}
+/* header css end */
+
+/* breadcrumb css start */
+.breadcrumb-nav .breadcrumb{
+  background-color: #dcefe7;
+  padding: 0.5rem 1rem;
+}
+.breadcrumb-nav .text-error{
+  color: #ca6d4d;
+}
+.breadcrumb-nav .active{
+  color: #0e704a!important;
+}
+/* breadcrumb css end */
+
+/* table css start */
+.table .thead-theme th {
+  color: #fff;
+  background-color: #15b275;
+  border-color: #fff;
+}
+.table-bordered td {
+  border: 1px solid #9d9d9d;
+}
+/* table css end */
+
+

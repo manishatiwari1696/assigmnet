@@ -1,0 +1,2 @@
+export const LOGIN_USER_DETAILS = "LOGIN_USER_DETAILS";
+export const USER_NOTES = "USER_NOTES"
